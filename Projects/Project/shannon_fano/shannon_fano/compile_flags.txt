@@ -1,0 +1,4 @@
+-IC:\Users\NPATE145\Documents\Personal Docs\MS in AI\Courses\CIS 505 Algo Design\Programming\CIS505_Algo\shannon_fano
+-DNDEBUG
+-target
+
